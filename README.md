@@ -5,4 +5,56 @@
 
  Parul University has taken initiative for water conservation by deploying STP plant for their entire campus at Limda : Waghodia, in Vadodara District of Gujarat state in India by reusing the treated wastewater from Sewage Treatment Plant (STP) output. The STP, with a capacity of 3.5 MLD (million liters per day), treats domestic wastewater generated from within their campus. By this noble activity, they are eligible for water credits.
 
+Address of Project Activity Village: Limda, Taluka: Waghodia, District: Vadodara, State: Gujarat 
+
+Type and Scope of RoU Project 
+Activity 
+
+Small Scale Project Type 
+
+Scope 4: Conservation measures taken to recycle and/or reuse water, 
+spent wash, wastewater etc. across or within specific industrial 
+processes and systems, including wastewater recycled/ reused in a 
+different process, but within the same site or location of the project 
+activity. Recycled wastewater used in off-site landscaping, gardening or 
+tree plantations/forests activity are also eligible under this Scope. 
+
+Country India 
+
+Block Basin/Sub Basin/Watershed Dhadhar Basin 
+
+Project commissioning date 09/07/2022 
+
+Lat. & Longitude 22°17'51.1"N 73°22'09.1"E 
+
+Rivers and water bodies near the 
+project activity 
+Limda Lake 
+
+Climatic Conditions Annual Mean Maximum Temperature: 39°C 
+Annual Mean Minimum Temperature: 12°C 
+Annual Mean Maximum Rainfall: 722 mm 
+
+Predominant HydroGeological 
+Formations 
+Hydrogeological formations include shallow alluvial deposits in 
+unconfined aquifers and deeper confined aquifers beneath 
+impermeable clay layers. Groundwater recharge is mainly driven by 
+rainfall and seepage, while quality varies due to salinity in certain 
+areas. 
+
+SDG Impacts 
+
+SDG 3 Good health and well-being  
+
+SDG 4 Quality Education  
+
+SDG 6 Clean Water and Sanitation 
+
+SDG 11 Sustainable Cities and Communities  
+
+SDG 13 Climate Action
+________________
+SDG 12 Responsible Consumption and Production
+
  
