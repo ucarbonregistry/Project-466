@@ -56,5 +56,27 @@ SDG 11 Sustainable Cities and Communities
 SDG 13 Climate Action
 ________________
 SDG 12 Responsible Consumption and Production
+________________
+RoU Issuance Date: 20/11/2024
 
+qty: 1166565 RoUs
+_____
+Serial Number :0001-000001-176022-UCR-RoU-IN-466-01102022-31122022
+
+Vintage Year: 2022
+
+Quantity: 176022
+___________
+Serial Number: 0001-176023-777793-UCR-RoU-IN-466-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 601771
+____________
+Serial Number: 0001-777794-1166565-UCR-RoU-IN-466-01012024-31072024
+
+Vintage Year: 2024
+
+Quantity: 388772
+_______________
  
